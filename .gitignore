@@ -11,9 +11,14 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+build
+.sass-cache
 .DS_Store
 
 # YARD artifacts
 .yardoc
 _yardoc
 doc/
+
+
+
